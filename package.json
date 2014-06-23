@@ -1,0 +1,10 @@
+  {
+  "name"         : "node-contact",
+  "version"      : "0.0.0",
+  "description"  : "Simple contact application.",
+  "author"       : "Brian",
+  "dependencies" : {
+    "express"    : "latest",
+    "mongoose"   : "latest"
+    }
+  }
